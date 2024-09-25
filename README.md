@@ -4,7 +4,7 @@
 
 This guide will walk you through the steps to run a Python script using Google Colab that calculates the driving distance (in miles) between postcodes and Robert Gordon University (Garthdee House). This process involves using the Google Maps API.
 
-## Prerequisites
+## Things You Need
 
 1. A Google account
 2. Access to the Excel file containing the postcodes
